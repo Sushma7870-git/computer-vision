@@ -1,1 +1,1 @@
-# computer-visionl.
+# computer-vision.

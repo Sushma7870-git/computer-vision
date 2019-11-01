@@ -1,12 +1,12 @@
 ## computer-vision.
-### Image analysis
+## Image analysis
 
  -  analysis.py - take input image array.
  
  -  Test_image - input image for analysis.
  
  -  results - output image.
-### RESULTS
+### Results
 -  Entropy 
 
 ![image](Image_analysis/results/idol_entropy.png)
@@ -18,3 +18,24 @@
 -  CDF
 
 ![image](Image_analysis/results/idol_cdf.png)
+
+## Color Correction
+
+- color_correction.py - takes input image array for color correction.
+
+-  test_image - it contain input images to be tested.
+
+- results - output of algorithm.
+
+### Results
+
+- corrected image
+
+![image](color_correction/results/RESULT1.png)
+
+
+
+- corrected histogram
+
+
+![image](color_correction/results/RESULT2.png)

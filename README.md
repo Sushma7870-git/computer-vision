@@ -45,6 +45,8 @@
 - composite.py - takes inputforground, background, and mask image array.
 
 -  input - it contain input images.
+![image](Composite_Image/input/comp_background.jpg)  ![image](Composite_Image/input/comp_foreground.jpg)  
+![image](Composite_Image/input/comp_mask.jpg)  
 
 - output - output of algorithm.
 

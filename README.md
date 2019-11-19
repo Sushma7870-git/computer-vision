@@ -39,3 +39,19 @@
 
 
 ![image](color_correction/results/RESULT2.png)
+
+## Composite_Image
+
+- composite.py - takes inputforground, background, and mask image array.
+
+-  input - it contain input images.
+
+- output - output of algorithm.
+
+### Results
+
+- composite image
+
+![image](color_correction/results/RESULT1.png)
+
+

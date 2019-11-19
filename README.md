@@ -52,6 +52,6 @@
 
 - composite image
 
-![image](color_correction/results/RESULT1.png)
+![image](Composite_Image/output/composite.jpg)
 
 

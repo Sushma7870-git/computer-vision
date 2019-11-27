@@ -62,7 +62,7 @@
 
 -  input - it contain input image.
 
-![image](Composite_Image/input/comp_background.jpg)  
+![image](Enhance/input/foggy.JPG)  
 
 - output - output of algorithm.
 
@@ -70,6 +70,6 @@
 
 - contrast enhanced image
 
-![image](Composite_Image/output/composite.jpg)
+![image](Enhance/output/cont_enhanced.JPG)
 
 

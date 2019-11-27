@@ -56,4 +56,20 @@
 
 ![image](Composite_Image/output/composite.jpg)
 
+## Enhancement
+
+- enhance.py - takes input low contrast fogy image.
+
+-  input - it contain input image.
+
+![image](Composite_Image/input/comp_background.jpg)  
+
+- output - output of algorithm.
+
+### Results
+
+- contrast enhanced image
+
+![image](Composite_Image/output/composite.jpg)
+
 

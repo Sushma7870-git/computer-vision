@@ -74,8 +74,8 @@
 
 ## Refrences
 
-- [a link](https://opencv.org)
+- [OpenCV](https://opencv.org)
 
-- [a link](https://www.pyimagesearch.com)
+- [Pyimagesearch](https://www.pyimagesearch.com)
 
-- [a link](https://in.mathworks.com)
+- [Mathworks](https://in.mathworks.com)
